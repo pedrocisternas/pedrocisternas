@@ -15,9 +15,9 @@ Software Engineer from Chile. I build AI-powered products.
 
 ## Stack
 
-`React Native` `Next.js` `TypeScript` `Node.js` `Supabase` `AWS` `GCP` `Vercel`
+`React Native` `Next.js` `TypeScript` `Node.js` `Supabase` `PostgreSQL`
 
-`OpenAI` `Anthropic` `Gemini` `LangChain` `Computer Vision` `Multi-Agent Systems`
+`AWS` `GCP` `Vercel` `Stripe` `Docker` `Python`
 
 ## Links
 
