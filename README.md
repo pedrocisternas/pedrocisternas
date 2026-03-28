@@ -11,7 +11,6 @@ Software Engineer from Chile. I build AI-powered products.
 ## About me
 
 - 🎓 Civil Engineering in Software — Pontificia Universidad Católica de Chile
-- ⚽ Former professional footballer (Colo-Colo youth, Trasandino de Los Andes)
 - 🚀 Building startups since college
 
 ## Stack
