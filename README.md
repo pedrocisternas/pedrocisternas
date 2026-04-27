@@ -10,7 +10,7 @@ Software Engineer from Chile. I build AI-powered products.
 
 ## About me
 
-- 🎓 Software Engineering @ Pontificia Universidad Católica de Chile
+🎓 Software Engineering @ Pontificia Universidad Católica de Chile
 
 ## Stack
 
