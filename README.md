@@ -4,14 +4,13 @@ Software Engineer from Chile. I build AI-powered products.
 
 ## What I'm working on
 
-🤖 **[HeyMark](https://heymark.ai)** — AI marketing agent with 70+ tools. Your entire marketing team, automated.
+🤖 **[HeyMark](https://heymark.ai)** — Your entire marketing team, automated.
 
-🥗 **[NutrIA](https://nutria.dev)** — AI nutrition app. Snap a photo, get your macros. 3,000+ active subscribers.
+🥗 **[NutrIA](https://nutria.dev)** — AI nutrition app. Snap a photo, get your macros. 3,500+ active subscribers.
 
 ## About me
 
-- 🎓 Civil Engineering in Software — Pontificia Universidad Católica de Chile
-- 🚀 Building startups since college
+- 🎓 Software Engineering @ Pontificia Universidad Católica de Chile
 
 ## Stack
 
