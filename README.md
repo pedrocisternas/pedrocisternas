@@ -1,6 +1,6 @@
 # Hey, I'm Pedro 👋
 
-Software Engineer from Chile. I build AI-powered products.
+Software Engineer from Chile
 
 ## What I'm working on
 
