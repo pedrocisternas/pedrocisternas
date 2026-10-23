@@ -4,7 +4,7 @@ Software Engineer from Chile
 
 ## What I'm working on
 
-🤖 **[HeyMark](https://heymark.ai)** — Your entire marketing team, automated.
+🤖 **[HeyMark](https://heymark.ai)** — Social manager for modern teams.
 
 🥗 **[NutrIA](https://nutria.dev)** — AI nutrition app. Snap a photo, get your macros. 3,500+ active subscribers.
 
