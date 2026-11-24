@@ -6,7 +6,7 @@ Software Engineer from Chile
 
 🤖 **[HeyMark](https://heymark.ai)** — Social media management for modern teams.
 
-🥗 **[NutrIA](https://nutria.dev)** — AI nutrition app. Snap a photo, get your macros. 3,500+ active subscribers.
+🥗 **[NutrIA](https://nutria.dev)** — B2C nutrition app. Snap your meals and learn as you go. 7,000+ paying subscribers.
 
 ## About me
 
